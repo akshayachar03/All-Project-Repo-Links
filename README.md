@@ -22,7 +22,7 @@ This repository contains links to all my DevOps projects, covering CI/CD, cloud 
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/akshayachar03/Ansible-Projects/tree/main/Resource-Creation" target="_blank">
-        <img src="https://img.shields.io/badge/Automating%20EC2%20Instance%20Management%20using%20Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automating%20EC2%20Instance%20Management%20using%20Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
       </a>
       <p>Uses Ansible playbooks to provision, configure, and manage EC2 instances on AWS.</p>
     </td>
@@ -38,3 +38,4 @@ This repository contains links to all my DevOps projects, covering CI/CD, cloud 
 <div align="center">
   <strong>More projects coming soon! 🚀</strong>
 </div>
+
