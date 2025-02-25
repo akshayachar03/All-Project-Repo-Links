@@ -1,8 +1,8 @@
 # 🚀 My DevOps Projects  
 
-This repository contains links to all my DevOps projects, covering CI/CD, cloud automation, and infrastructure management.  
+This repository contains links to all my DevOps projects, covering CI/CD, cloud automation, and infrastructure management.  You can view my projects by clicking on the project cards below.
 
-## 🔗 Project Cards  
+## 🔗 Projects  
 
 <table>
   <tr>
