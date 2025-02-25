@@ -2,12 +2,27 @@
 
 This repository contains links to all my DevOps projects, covering CI/CD, cloud automation, and infrastructure management.  
 
-## 🔗 Project Links  
+## 🔗 Projects  
 
-1. **CI/CD Pipeline using Jenkins** - [GitHub Repo](https://github.com/akshayachar03/CICD-Pipeline-Using-Jenkins/tree/main/java-maven-sonar-argocd-helm-k8s)  
-2. **AWS Resource Tracker Automation Script** - [GitHub Repo](https://github.com/akshayachar03/Shell-scripting-examples/tree/main/AWS-Resource_Tracker)  
-3. **Automating EC2 Instance Management using Ansible** - [GitHub Repo](https://github.com/akshayachar03/Ansible-Projects/tree/main/Resource-Creation)  
-4. **Kubernetes Deployment using Helm** - [GitHub Repo](https://github.com/yourusername/k8s-helm)  
+<div align="center">
+
+  <a href="https://github.com/akshayachar03/CICD-Pipeline-Using-Jenkins">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshayachar03&repo=CICD-Pipeline-Using-Jenkins&theme=radical" />
+  </a>
+
+  <a href="https://github.com/akshayachar03/Shell-scripting-examples">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshayachar03&repo=Shell-scripting-examples&theme=radical" />
+  </a>
+
+  <a href="https://github.com/akshayachar03/Ansible-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akshayachar03&repo=Ansible-Projects&theme=radical" />
+  </a>
+
+  <a href="https://github.com/yourusername/k8s-helm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=k8s-helm&theme=radical" />
+  </a>
+
+</div>
 
 More projects coming soon! 🚀  
 
