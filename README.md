@@ -14,9 +14,9 @@ This repository contains links to all my DevOps projects, covering CI/CD, cloud 
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/akshayachar03/Shell-scripting-examples/tree/main/AWS-Resource_Tracker">
-        <img src="https://img.shields.io/badge/AWS%20Resource%20Tracker%20Automation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS%20Resource%20Tracker%20Automation-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
       </a>
-      <p>A shell script that automates AWS resource tracking, listing EC2, S3, and IAM details.</p>
+      <p>A Bash script that automates AWS resource tracking, listing EC2, S3, and IAM details.</p>
     </td>
   </tr>
   <tr>
@@ -35,7 +35,9 @@ This repository contains links to all my DevOps projects, covering CI/CD, cloud 
   </tr>
 </table>
 
-More projects coming soon! 🚀  
+<div align="center">
+  <strong>More projects coming soon! 🚀</strong>
+</div>
 
 
 
