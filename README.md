@@ -7,7 +7,7 @@ This repository contains links to all my DevOps projects, covering CI/CD, cloud 
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/akshayachar03/CICD-Pipeline-Using-Jenkins" target="_blank">
+      <a href="[https://github.com/akshayachar03/CICD-Pipeline-Using-Jenkins](https://github.com/akshayachar03/CICD-Pipeline-Using-Jenkins/tree/main/java-maven-sonar-argocd-helm-k8s)" target="_blank">
         <img src="https://img.shields.io/badge/CI%2FCD%20Pipeline%20using%20Jenkins-000?style=for-the-badge&logo=jenkins&logoColor=white" />
       </a>
       <p>Automated end-to-end CI/CD pipeline using Jenkins, SonarQube, ArgoCD, Helm, and Kubernetes.</p>
