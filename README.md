@@ -6,7 +6,7 @@ This repository contains links to all my DevOps projects, covering CI/CD, cloud 
 
 1. **CI/CD Pipeline using Jenkins** - [GitHub Repo](https://github.com/akshayachar03/CICD-Pipeline-Using-Jenkins/tree/main/java-maven-sonar-argocd-helm-k8s)  
 2. **AWS Resource Tracker Automation Script** - [GitHub Repo](https://github.com/akshayachar03/Shell-scripting-examples/tree/main/AWS-Resource_Tracker)  
-3. **Dockerized Web Application** - [GitHub Repo](https://github.com/yourusername/docker-webapp)  
+3. **Automating EC2 Instance Management using Ansible** - [GitHub Repo](https://github.com/akshayachar03/Ansible-Projects/tree/main/Resource-Creation)  
 4. **Kubernetes Deployment using Helm** - [GitHub Repo](https://github.com/yourusername/k8s-helm)  
 
 More projects coming soon! 🚀  
