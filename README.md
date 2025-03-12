@@ -27,10 +27,18 @@ This repository contains links to all my DevOps projects, covering CI/CD, cloud 
       <p>Uses Ansible playbooks to provision, configure, and manage EC2 instances on AWS.</p>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/yourusername/k8s-helm" target="_blank">
-        <img src="https://img.shields.io/badge/Kubernetes%20Deployment%20using%20Helm-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <a href="https://github.com/akshayachar03/Docker-projects/tree/main/docker-compose" target="_blank">
+        <img src="https://img.shields.io/badge/Containerizing%20a%20MERN%20Stack%20App%20using%20Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
       </a>
-      <p>Deploys microservices in Kubernetes using Helm charts for version-controlled deployments.</p>
+      <p>Containerized a full-stack MERN application using Docker Compose for efficient deployment.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/akshayachar03/devsecops-pipeline" target="_blank">
+        <img src="https://img.shields.io/badge/DevSecOps%20Pipeline%20using%20GitHub%20Actions-24292F?style=for-the-badge&logo=githubactions&logoColor=white" />
+      </a>
+      <p>Built a secure CI/CD pipeline using GitHub Actions with security scanning and compliance checks.</p>
     </td>
   </tr>
 </table>
@@ -38,4 +46,3 @@ This repository contains links to all my DevOps projects, covering CI/CD, cloud 
 <div align="center">
   <strong>More projects coming soon! 🚀</strong>
 </div>
-
