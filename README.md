@@ -40,6 +40,12 @@ This repository contains links to all my DevOps projects, covering CI/CD, cloud 
       </a>
       <p>Built a secure CI/CD pipeline using GitHub Actions with security scanning and compliance checks.</p>
     </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/akshayachar03/AWSDemo" target="_blank">
+        <img src="https://img.shields.io/badge/AWS%20Demo-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+      </a>
+      <p>Demonstration of AWS services usage and automation techniques.</p>
+    </td>
   </tr>
 </table>
 
