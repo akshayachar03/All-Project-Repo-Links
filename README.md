@@ -42,7 +42,7 @@ This repository contains links to all my DevOps projects, covering CI/CD, cloud 
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/akshayachar03/AWSDemo" target="_blank">
-       <img src="https://img.shields.io/badge/AWS%20Demo-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS%20App%20Deployment-0089D6?style=for-the-badge&logo=cloud&logoColor=white" />
       </a>
       <p>Demonstration of AWS services usage and automation techniques.</p>
     </td>
