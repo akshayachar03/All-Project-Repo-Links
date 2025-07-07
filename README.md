@@ -47,6 +47,20 @@ This repository contains links to all my DevOps projects, covering CI/CD, cloud 
       <p>Demonstration of AWS services usage and automation techniques.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/akshayachar03/multi-microservice-app" target="_blank">
+        <img src="https://img.shields.io/badge/Multi--Microservices%20Deployment%20with%20Azure%20DevOps%20and%20AKS-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
+      </a>
+      <p>Deployed a multi-microservice application using Azure DevOps pipelines, AKS, ArgoCD, and self-hosted agents.</p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/akshayachar03/three-tier-slot-booking-app" target="_blank">
+        <img src="https://img.shields.io/badge/Three--Tier%20Covid%20Slot%20Booking%20App%20with%20CI%2FCD%20on%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+      </a>
+      <p>CI/CD for a three-tier Flask + MySQL app using Azure DevOps, ACR, ArgoCD, AKS, and VMSS-based external access.</p>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
