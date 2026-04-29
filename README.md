@@ -61,6 +61,14 @@ This repository contains links to all my DevOps projects, covering CI/CD, cloud 
       <p>CI/CD for a three-tier Flask + MySQL app using Azure DevOps, ACR, ArgoCD, AKS, and VMSS-based external access.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+  <a href="https://github.com/akshayachar03/aiops-python-scripts" target="_blank">
+    <img src="https://img.shields.io/badge/AIOps%20Log%20Analysis%20with%20Python%20%7C%20Anomaly%20Detection-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <p>Lightweight AIOps project for log analysis using Python, featuring rule-based error spike detection and ML-based anomaly detection with Isolation Forest.</p>
+</td>
+  </tr>
 </table>
 
 <div align="center">
